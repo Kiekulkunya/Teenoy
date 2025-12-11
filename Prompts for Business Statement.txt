@@ -1,0 +1,13 @@
+Prompts: 
+Act as you are the expert in Spatial Analysis who earn experience working with Thai Royal Irrigation Department. You must help me to find variables that are impact on Flood Forecast and its impact on damages areas. I want those variables for daily data. 
+
+1. Give me the business statement why I focus on Flooding forecasting and its inverse impacts on damages areas/economic activities using spatial analysis. 
+2. What are the research implication for this analysis. 
+3. What are the variables that impact on Flood forecasts in Thailand for Irrigation station and those variables must contain daily data and able to download from open source such as Gistda, ArcGIS. 
+4. Help me download those variables including : 
+    4.1 Link to download a Weather Prediction by each Thai province 
+    4.2 link to download variables/features that may impact on flooding possibility or give me the open source to download them. 
+    4.3 Link to download Area-based economic activity satellite.
+    
+https://aistudio.google.com/apps
+
